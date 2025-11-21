@@ -237,7 +237,7 @@ export async function checkForUpdates(currentTimestamp: string): Promise<{
           `构建时间: ${formatVersionTimestamp(remoteTimestamp)}`,
           '点击前往仓库查看更新详情',
         ],
-        downloadUrl: 'https://github.com/Decohererk/DecoTV/releases',
+        downloadUrl: 'https://github.com/xiaojian1020/DecoTV',
       };
 
       return {
